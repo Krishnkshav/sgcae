@@ -1,0 +1,27 @@
+{
+  "username_policy": {
+    "min_length": 6,
+    "max_length": 15,
+    "uppercase": false,
+    "numbers": true,
+    "underscore": null,
+    "symbols": false
+  },
+  "password_policy": {
+    "min_length": 8,
+    "max_length": 15,
+    "uppercase": true,
+    "numbers": true,
+    "symbols": true
+  },
+  "login_policy": {
+    "max_failed_attempts": 5,
+    "max_devices": 2
+  },
+  "access_policy": {
+    "mfa_required": true
+  },
+  "session_policy": {
+    "max_idle_minutes": 30
+  }
+}
