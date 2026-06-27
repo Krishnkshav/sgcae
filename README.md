@@ -1,4 +1,4 @@
--:SECURITY GOVERNANCE AND COMPLIANCE ENGINE (SGCAE):-
+-:SECURITY GOVERNANCE AND COMPLIANCE AUTOMATION ENGINE (SGCAE):-
 ---- Governance Audit & Policy Compliance System ----
 
 This Python-based system performs automated governance validation on user access records. It evaluates structured identity data against defined security policies to determine compliance posture and generate governance evidence artifacts.
